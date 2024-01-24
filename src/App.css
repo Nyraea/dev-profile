@@ -1,0 +1,11 @@
+body{ 
+    
+    background: linear-gradient(#1D1534, #4B3F72, #696089);
+    margin-top: 5em;
+    margin-bottom: 5em;
+  }
+
+.bg-gray {
+    background-color: #1D1534;
+}
+
